@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="45px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />     Hello , My name is Thanousin Phouvongkhamchan     <img width="45px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+  <div style="display:flex;"><img width="45px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />     Hello , My name is Thanousin Phouvongkhamchan     <img width="45px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></div>
   
   
   <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
